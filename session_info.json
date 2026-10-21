@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-21 00:39:44",
+  "python": "3.13.16",
+  "platform": "Linux-6.18.44-fc-v139-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2"
+  },
+  "config": {
+    "DATA_PATH": "data/Human_MitoCarta3_0.xls",
+    "SHEET_A_HINT": "A Human",
+    "SHEET_C_HINT": "MitoPathways",
+    "BACKGROUND": 0.1,
+    "LOG_ALREADY": true,
+    "DROP_UNQUANTIFIED": true,
+    "MIN_GENES_PER_PATHWAY": 3,
+    "MIN_SHARED_GENES": 1,
+    "KEEP_LEAVES_ONLY": false,
+    "INCLUDE_DIAGONAL": true,
+    "NORMALIZE": "spectral",
+    "T_MAX": 60.0,
+    "N_T": 601,
+    "T_STAR": 10.0,
+    "SINK_RATE": 1.0,
+    "SOURCE_PATHWAY": "Complex I",
+    "TARGET_PATHWAY": "Complex V",
+    "N_PERMUTATIONS": 5000,
+    "N_PERM_CONTROL": 2000,
+    "N_PERM_BENCHMARK": 2000,
+    "N_PERM_STRATIFIED": 5000,
+    "N_BOOTSTRAP_AUC": 2000,
+    "N_BOOTSTRAP": 200,
+    "SEED": 20260805,
+    "OUTDIR": "results",
+    "FIG_DPI": 300,
+    "FIG_FORMATS": [
+      "png",
+      "pdf"
+    ]
+  },
+  "data": {
+    "file": "Human_MitoCarta3_0.xls",
+    "abspath": "/home/claude/rev3/data/Human_MitoCarta3_0.xls",
+    "size_MB": 10.18,
+    "sha256": "a885dfb0f2847dc4e3fff2bebb89f47535cf546f2a46ba463016ffa2e5e228b5",
+    "source": "MitoCarta3.0, Broad Institute",
+    "n_genes": 957,
+    "n_pathways": 138,
+    "tissues": [
+      "cerebrum",
+      "cerebellum",
+      "brainstem",
+      "spinalcord",
+      "kidney",
+      "liver",
+      "heart",
+      "skeletalmuscle",
+      "adipose",
+      "smallintestine",
+      "largeintestine",
+      "stomach",
+      "placenta",
+      "testis"
+    ],
+    "source_pathway": "OXPHOS > Complex I",
+    "target_pathway": "OXPHOS > Complex V"
+  },
+  "seed": 20260805
+}
