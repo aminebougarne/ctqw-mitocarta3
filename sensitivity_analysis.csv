@@ -1,0 +1,85 @@
+variant,tissue,QTE
+reference,cerebrum,0.0145108598515342
+reference,cerebellum,0.0143615738284245
+reference,brainstem,0.0150221716185781
+reference,spinalcord,0.0135196887729792
+reference,kidney,0.0104484847201714
+reference,liver,0.0120547892235781
+reference,heart,0.0136733770952554
+reference,skeletalmuscle,0.0141604715938069
+reference,adipose,0.0137966119386618
+reference,smallintestine,0.0131948056165864
+reference,largeintestine,0.0141524101327569
+reference,stomach,0.0128813817094741
+reference,placenta,0.0137495333174102
+reference,testis,0.0138499664873489
+no on-site energies,cerebrum,0.0158826258481004
+no on-site energies,cerebellum,0.0160873147693429
+no on-site energies,brainstem,0.0166298033259373
+no on-site energies,spinalcord,0.0144367855875168
+no on-site energies,kidney,0.0117827617870003
+no on-site energies,liver,0.0138607286864357
+no on-site energies,heart,0.0153656649668318
+no on-site energies,skeletalmuscle,0.0158146511987008
+no on-site energies,adipose,0.0146015993309
+no on-site energies,smallintestine,0.0152221116519412
+no on-site energies,largeintestine,0.0152783974328201
+no on-site energies,stomach,0.0143776495494704
+no on-site energies,placenta,0.0144327168789564
+no on-site energies,testis,0.0143811056912143
+no spectral normalisation,cerebrum,0.0095557666435228
+no spectral normalisation,cerebellum,0.0081454988684395
+no spectral normalisation,brainstem,0.0098376407629666
+no spectral normalisation,spinalcord,0.0092885533707077
+no spectral normalisation,kidney,0.007931346524612
+no spectral normalisation,liver,0.008404273386605
+no spectral normalisation,heart,0.0102160164963006
+no spectral normalisation,skeletalmuscle,0.0088375626965762
+no spectral normalisation,adipose,0.0100995505393104
+no spectral normalisation,smallintestine,0.0106506493567084
+no spectral normalisation,largeintestine,0.0101266447033945
+no spectral normalisation,stomach,0.0104563988720419
+no spectral normalisation,placenta,0.0106487841094086
+no spectral normalisation,testis,0.0119161650319587
+edges with >= 3 shared genes,cerebrum,0.0136932394212862
+edges with >= 3 shared genes,cerebellum,0.0127367074570176
+edges with >= 3 shared genes,brainstem,0.0144065311579717
+edges with >= 3 shared genes,spinalcord,0.0140132487399586
+edges with >= 3 shared genes,kidney,0.0128822051345545
+edges with >= 3 shared genes,liver,0.0121715196233506
+edges with >= 3 shared genes,heart,0.0143384349487524
+edges with >= 3 shared genes,skeletalmuscle,0.0126199027313369
+edges with >= 3 shared genes,adipose,0.0138251995448339
+edges with >= 3 shared genes,smallintestine,0.0140887681914966
+edges with >= 3 shared genes,largeintestine,0.0138509500961122
+edges with >= 3 shared genes,stomach,0.0130629256558594
+edges with >= 3 shared genes,placenta,0.0138531733718403
+edges with >= 3 shared genes,testis,0.0130213635538721
+background 0.5,cerebrum,0.0145108598515342
+background 0.5,cerebellum,0.0143615738284245
+background 0.5,brainstem,0.0150221716185781
+background 0.5,spinalcord,0.0135196887729792
+background 0.5,kidney,0.0104484847201714
+background 0.5,liver,0.0120547892235781
+background 0.5,heart,0.0136733770952554
+background 0.5,skeletalmuscle,0.0141604715938069
+background 0.5,adipose,0.0137966119386618
+background 0.5,smallintestine,0.0131948056165864
+background 0.5,largeintestine,0.0141524101327569
+background 0.5,stomach,0.0128813817094741
+background 0.5,placenta,0.0137495333174102
+background 0.5,testis,0.0138499664873489
+leaf pathways (n=111),cerebrum,0.0126420319475429
+leaf pathways (n=111),cerebellum,0.0126893005423605
+leaf pathways (n=111),brainstem,0.0129886344164985
+leaf pathways (n=111),spinalcord,0.0124313079218089
+leaf pathways (n=111),kidney,0.014757053405848
+leaf pathways (n=111),liver,0.015769262565186
+leaf pathways (n=111),heart,0.0114508580350208
+leaf pathways (n=111),skeletalmuscle,0.0152574653870237
+leaf pathways (n=111),adipose,0.0139260070425773
+leaf pathways (n=111),smallintestine,0.0127228907035217
+leaf pathways (n=111),largeintestine,0.0111534333146497
+leaf pathways (n=111),stomach,0.0133370544609435
+leaf pathways (n=111),placenta,0.0178586259913375
+leaf pathways (n=111),testis,0.0151173674604193

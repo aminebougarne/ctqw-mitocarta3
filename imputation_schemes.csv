@@ -1,0 +1,6 @@
+scheme,imputed_value_range,within_observed_range
+legacy 0.1,0.10–0.10,False
+global minimum,4.70–4.70,True
+per-tissue min,4.70–6.60,True
+MinDet (p1),6.36–7.30,True
+MinProb,3.85–7.66,False

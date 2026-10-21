@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,mean_degree,n_connected_components,largest_component_size,mean_shared_genes
+138,1022,0.10811382629852957,14.81159420289855,1,138,5.697651663405088
