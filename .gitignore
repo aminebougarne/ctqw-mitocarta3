@@ -1,0 +1,18 @@
+# Données sources — non redistribuées (voir README)
+data/
+*.xls
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Systèmes de fichiers
+.DS_Store
+Thumbs.db

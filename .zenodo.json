@@ -1,0 +1,31 @@
+{
+  "title": "Analysis pipeline for \"Protein abundance modulates the structural localization of continuous-time quantum walks on mitochondrial pathway networks\"",
+  "description": "<p>Jupyter notebooks and derived result tables implementing a continuous-time quantum walk analysis of the MitoCarta 3.0 mitochondrial pathway network, weighted by tissue-resolved mass-spectrometric protein abundance, together with permutation-based inference, robustness analyses and a benchmark against eight non-quantum comparators.</p><p>This deposit accompanies an article submitted to <i>Discover Applied Sciences</i>. Executing the notebook end to end regenerates every figure, table and statistic reported in the article under a fixed random seed. The source data are not redistributed: the Human MitoCarta 3.0 inventory must be downloaded from the Broad Institute, and the notebook verifies its SHA-256 checksum at run time.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "version": "3.0.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Bougarne, Amine",
+      "affiliation": "Faculty of Medicine and Pharmacy, Mohammed V University, Rabat, Morocco",
+      "orcid": "0009-0000-6896-6926"
+    }
+  ],
+  "keywords": [
+    "continuous-time quantum walk",
+    "mitochondrial pathway network",
+    "MitoCarta",
+    "quantum-inspired network analysis",
+    "permutation null model",
+    "proteomics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1093/nar/gkaa1011",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    }
+  ]
+}

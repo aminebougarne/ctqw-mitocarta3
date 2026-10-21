@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: >-
+  Analysis pipeline for "Protein abundance modulates the structural localization
+  of continuous-time quantum walks on mitochondrial pathway networks"
+message: If you use this software, please cite it using these metadata.
+type: software
+authors:
+  - given-names: Amine
+    family-names: Bougarne
+    email: amine.bougarne@um5r.ac.ma
+    affiliation: Faculty of Medicine and Pharmacy, Mohammed V University, Rabat, Morocco
+    orcid: https://orcid.org/0009-0000-6896-6926
+abstract: >-
+  Jupyter notebooks and derived result tables implementing a continuous-time
+  quantum walk analysis of the MitoCarta 3.0 mitochondrial pathway network,
+  weighted by tissue-resolved mass-spectrometric protein abundance, together
+  with permutation-based inference, robustness analyses and a benchmark against
+  eight non-quantum comparators.
+keywords:
+  - continuous-time quantum walk
+  - mitochondrial pathway network
+  - MitoCarta
+  - quantum-inspired network analysis
+  - permutation null model
+  - proteomics
+license: MIT
+version: 3.0.0
+date-released: '2026-10-21'
+doi: 10.5281/zenodo.23534595
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23534595
+    description: Archived version 3.0.0 of the analysis pipeline
